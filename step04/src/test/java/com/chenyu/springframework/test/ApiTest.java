@@ -1,10 +1,10 @@
 package com.chenyu.springframework.test;
 
-import com.chehyu.springframework.beans.PropertyValue;
-import com.chehyu.springframework.beans.PropertyValues;
-import com.chehyu.springframework.beans.factory.config.BeanDefinition;
-import com.chehyu.springframework.beans.factory.config.BeanReference;
-import com.chehyu.springframework.beans.factory.support.DefaultListableBeanFactory;
+import com.chenyu.springframework.beans.PropertyValue;
+import com.chenyu.springframework.beans.PropertyValues;
+import com.chenyu.springframework.beans.factory.config.BeanDefinition;
+import com.chenyu.springframework.beans.factory.config.BeanReference;
+import com.chenyu.springframework.beans.factory.support.DefaultListableBeanFactory;
 import com.chenyu.springframework.test.bean.bean.UserDao;
 import com.chenyu.springframework.test.bean.bean.UserService;
 import org.junit.Test;

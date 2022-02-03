@@ -46,10 +46,6 @@ public class DefaultListableBeanFactory extends  AbstractAutowireCapableBeanFact
         return beanDefinition;
     }
 
-    @Override
-    public void addBeanPostProcessor(BeanPostProcessor beanPostProcessor) {
-
-    }
 
     @Override
     public boolean containsBeanDefinition(String beanName) {
